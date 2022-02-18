@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Chatible2</string>
+
+    <string name="app_name_slogan">urgent messages</string>
+
+    <string name="give_correct_information1">Please your give correct information. Because, your email and phone number needs to be verification.</string>
+    <string name="give_correct_information2">Hãy nhập đúng thông tin! đặc biệt là email, vì chúng ta cần xác thực email đó tồn tại.</string>
+
+    <!-- My Common Strings -->
+    <string name="join">Dont have account? <b>Join Chatible!</b></string>
+
+    <string name="student_name">Nguyen Thanh Hien</string>
+
+    <string name="copyright">test</string>
+
+    <string name="profile_settings">Thông tin cá nhân</string>
+
+    <string name="thehasnatbd">TheHasnatBD</string>
+
+    <string name="log_in">Log In</string>
+
+    <string name="log_out">Log Out</string>
+
+    <string name="log_out1">Đăng xuất</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="friends">Friends</string>
+
+    <string name="about_app">About me</string>
+
+    <string name="all_peoples">Peoples</string>
+
+    <string name="all_friends">Bạn bè</string>
+
+    <!-- Slider Screen Strings -->
+
+
+    <string name="next">NEXT</string>
+
+    <string name="skip">SKIP</string>
+
+    <string name="start">START</string>
+
+    <string name="title_slide1">Chatible</string>
+
+    <string name="desc_slide1">Bài tập lớn môn Android Đại Học Kinh Bắc</string>
+
+    <string name="title_slide2">Đại học kinh bắc</string>
+
+    <string name="desc_slide2">Lớp 07D.CNTT01</string>
+
+    <string name="title_slide3">Ứng dụng nhắn tin</string>
+
+    <string name="desc_slide3">Chatible ứng dụng nhắn tin miễn phí</string>
+
+    <string name="title_slide4">NHÓM BAO GỒM</string>
+
+    <string name="desc_slide41">Nguyễn Thanh Hiển</string>
+
+    <string name="desc_slide42"> </string>
+
+    <string name="desc_slide43"> </string>
+
+    <!-- About App Strings -->
+
+
+    <string name="varsity_name">BANGLADESH UNIVERSITY</string>
+
+    <string name="instructor1_name">Md. Sadiq Iqbal</string>
+
+    <string name="instructor_name">Omor Faruk</string>
+
+    <string name="about_text">This application is built for learning purpose.\nProject Source Code Link-</string>
+
+
+    -<string name="project_git_link">
+
+<u>https://github.com/TheHasnatBD/uMe</u>
+
+</string>
+
+    <string name="about_app_detail">x</string>
+
+    <string name="student_id_details">B.Sc in Computer Science  Engineering\nID: 201521 042 019</string>
+
+    <!-- Strings related to login -->
+
+
+    <string name="prompt_email">Email</string>
+
+    <string name="prompt_password">Password (optional)</string>
+
+    <string name="action_sign_in">Sign in or register</string>
+
+    <string name="action_sign_in_short">Sign in</string>
+
+    <string name="error_invalid_email">This email address is invalid</string>
+
+    <string name="error_invalid_password">This password is too short</string>
+
+    <string name="error_incorrect_password">This password is incorrect</string>
+
+    <string name="error_field_required">This field is required</string>
+
+    <string name="permission_rationale">"Contacts permissions are needed for providing emailcompletions." </string>
+
+    <!-- Remove or change this placeholder text -->
+
+
+    <string name="on_internet_msg">No internet connection! Please check internet.</string>
+
+    <string name="menu_search">Search</string>
+
+    <string name="register_success_popup">Registered successfully.\nVerification email has been sent.\nPlease verify email.</string>
+
+    <string name="recheck_gender">Hãy chắc chắn với những thông tin bạn vừa nhập vào!</string>
+
+
+    -<string-array name="spinerViewPeople">
+
+    <item>Default</item>
+
+    <item>Name</item>
+
+    <item>Date</item>
+
+</string-array>
+</resources>

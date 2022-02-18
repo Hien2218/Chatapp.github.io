@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Chatible2" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+        <!-- Customize your theme here. -->
+
+        <style parent="Theme.AppCompat.Light.NoActionBar" name="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+        <!--Splash screen theme. manifest file >> Splash Activity-->
+        <style name="AppTheme.Launcher">
+
+        <item name="android:windowBackground">@drawable/launcher_screen_with_logo</item>
+
+        <item name="android:windowNoTitle">true</item>
+
+        <item name="android:windowActionBar">false</item>
+
+        <item name="android:windowFullscreen">true</item>
+
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>

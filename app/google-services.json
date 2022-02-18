@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601662923007",
+    "firebase_url": "https://chatible2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatible2",
+    "storage_bucket": "chatible2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601662923007:android:0ddee671cd43e3e03bacca",
+        "android_client_info": {
+          "package_name": "com.example.chatible2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601662923007-9laqaj0ujkl6e0fa8pepg25ku4r30h8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeFVU_vmePikaShrBhduHajaWI2bp-S4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601662923007-9laqaj0ujkl6e0fa8pepg25ku4r30h8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
